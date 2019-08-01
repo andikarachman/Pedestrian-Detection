@@ -16,7 +16,7 @@ While it is possible to detect pedestrians from images, videos, and webcam strea
 
 The input of this system will be video, so we need to specify the path to the input and output video.
 
-_$ pedestrian-detection.py [-h] -i INPUT -o OUTPUT_
+_$ python pedestrian-detection.py [-h] -i INPUT -o OUTPUT_
 
 - INPUT: path to input video
 - OUTPUT: path to output video
